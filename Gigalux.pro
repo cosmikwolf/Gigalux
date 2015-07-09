@@ -1,6 +1,6 @@
-update=Monday, July 06, 2015 'PMt' 04:55:46 PM
+update=Wednesday, July 08, 2015 'PMt' 04:48:20 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../ZetaohmLibraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=ZettaOhm
+LibName30=/Users/tenkai/Desktop/Projects/ZetaohmLibraries/Zetaohm
